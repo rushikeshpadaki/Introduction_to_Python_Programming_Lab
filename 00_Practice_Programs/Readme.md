@@ -2,7 +2,6 @@
 
 This repository contains a collection of beginner-level Python programs with complete documentation and sample executions.
 
-|------|---------------------------------------------------|-----------------------------------------------------------------------------|
 | S.No | Title                                             | Description                                                                 |
 |------|---------------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Hello World Program                               | Prints "Hello, World!" to the console.                                      |
@@ -16,7 +15,6 @@ This repository contains a collection of beginner-level Python programs with com
 | 9    | Remove a Word from a String                       | Removes all instances of a given word from a user-provided string.          |
 | 10   | Set Operations in Python                          | Performs union, intersection, difference, and symmetric difference on sets. |
 | 11   | Display Calendar for a Given Month and Year       | Prints the calendar for a user-specified month and year using 'calendar'.   |
-|------|---------------------------------------------------|-----------------------------------------------------------------------------|
 
 > Each program includes detailed comments explaining the logic, complexity, and sample execution.
 
